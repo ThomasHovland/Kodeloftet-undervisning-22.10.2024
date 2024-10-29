@@ -90,10 +90,6 @@ footer {
         flex-direction: column;
     }
 
-    .projects {
-        height: 200vh;
-    }
-
     .project-cards {
         flex-direction: column;
     }
